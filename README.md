@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Emily's repository
