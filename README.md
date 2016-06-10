@@ -1,2 +1,2 @@
 # hello-world
-Emily's repository
+Emily's awesome repository
